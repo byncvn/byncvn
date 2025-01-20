@@ -108,6 +108,6 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 ###
 
-<img src="https://raw.githubusercontent.com/byncvn/byncvn/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/byncvn/byncvn/blob/output/github-snake.svg)
 
 ###
