@@ -6,7 +6,9 @@
 
 <br clear="both">
 
-<p align="left">💫 About Me:<br>Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with expertise in both manual and automated testing, focusing on mobile and web platforms. With a strong background in QA automation, unit testing, and Agile methodologies, I help teams build high-quality software through efficient testing practices.<br>
+<p align="left">💫 About Me:<br>
+  <br>
+  Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with expertise in both manual and automated testing, focusing on mobile and web platforms. With a strong background in QA automation, unit testing, and Agile methodologies, I help teams build high-quality software through efficient testing practices.<br>
   <br>
   🌱 Currently Learning:<br><br>Test Automation Engineer certification (ISTQB – in progress)<br>Advanced Mobile Testing frameworks and strategies<br>
   <br>
