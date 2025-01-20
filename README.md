@@ -1,3 +1,7 @@
+<p align="center">Visitor #</p>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/byncvn/count.svg?"  />
 </div>
@@ -6,13 +10,16 @@
 
 <br clear="both">
 
-<p align="left">💫 About Me:<br>
-  <br>
-  Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with expertise in both manual and automated testing, focusing on mobile and web platforms. With a strong background in QA automation, unit testing, and Agile methodologies, I help teams build high-quality software through efficient testing practices.<br>
-  <br>
-  🌱 Currently Learning:<br><br>Test Automation Engineer certification (ISTQB – in progress)<br>Advanced Mobile Testing frameworks and strategies<br>
-  <br>
-  💻 What I’m working on:<br><br>Developing automated test scripts for mobile SDKs and applications<br>Contributing to open-source test automation projects<br>Mentoring junior team members on best practices in mobile testing and automation</p>
+<p align="left">💫 About Me:<br><br>
+Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with expertise in both manual and automated testing, focusing on mobile and web platforms. With a strong background in QA automation, unit testing, and Agile methodologies, I help teams build high-quality software through efficient testing practices.<br><br>
+🌱 Currently Learning:<br><br>Test Automation Engineer certification (ISTQB – in progress)<br>Advanced Mobile Testing frameworks and strategies<br><br>
+💻 What I’m working on:<br><br>Developing automated test scripts for mobile SDKs and applications<br>Contributing to open-source test automation projects<br>Mentoring junior team members on best practices in mobile testing and automation</p>
+
+###
+
+<br clear="both">
+
+<p align="left">Reach me</p>
 
 ###
 
@@ -44,12 +51,6 @@
 
 <br clear="both">
 
-<p align="left">Frameworks</p>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
@@ -61,6 +62,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<p align="left">Frameworks</p>
 
 ###
 
