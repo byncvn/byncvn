@@ -80,10 +80,6 @@
 
 <br clear="both">
 
-<p align="left">Reach me</p>
-
-###
-
 <div align="center">
   <img height="200" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/657797f0e57ac0d5b8e857ab3597e6a9/large.gif"  />
 </div>
