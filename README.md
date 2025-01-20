@@ -15,13 +15,13 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 🌱 Currently Learning:<br><br>Test Automation Engineer certification (ISTQB – in progress)<br>Advanced Mobile Testing frameworks and strategies<br><br>
 💻 What I’m working on:<br><br>Developing automated test scripts for mobile SDKs and applications<br>Contributing to open-source test automation projects<br>Mentoring junior team members on best practices in mobile testing and automation</p>
 
-###
-
-<br clear="both">
-
-<p align="left">Reach me</p>
-
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bryancervantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryancervantes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29274297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29274297" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/byncvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="byncvn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/byncvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="byncvn" height="30" width="40" /></a>
+</p>
 
 <br clear="both">
 
