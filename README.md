@@ -3,7 +3,6 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 🌱 Currently Learning:<br>Test Automation Engineer certification (ISTQB – in progress)<br>Advanced Mobile Testing frameworks and strategies<br>
 💻 What I’m working on:<br>Developing automated test scripts for mobile SDKs and applications<br>Contributing to open-source test automation projects<br>Mentoring junior team members on best practices in mobile testing and automation<br>
-📫 How to Reach Me:<br>LinkedIn: [https://linkedin.com/in/https://www.linkedin.com/in/bryancervantes/]<br>Email: [byncvn@gmail.com]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryancervantes/) 
