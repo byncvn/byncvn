@@ -51,6 +51,12 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 <br clear="both">
 
+<p align="left">Frameworks</p>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
@@ -65,11 +71,6 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 ###
 
-<br clear="both">
-
-<p align="left">Frameworks</p>
-
-###
 
 <br clear="both">
 
