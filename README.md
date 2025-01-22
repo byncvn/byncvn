@@ -51,7 +51,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 <br clear="both">
 
-<p align="left">Frameworks</p>
+<p align="left">Tools & Frameworks</p>
 
 ###
 
@@ -62,11 +62,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -74,7 +70,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 <br clear="both">
 
-<p align="left">Code editors</p>
+<p align="left">IDE's</p>
 
 ###
 
@@ -94,20 +90,21 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 <br clear="both">
 
+###
 <div align="center">
-  <img height="200" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/657797f0e57ac0d5b8e857ab3597e6a9/large.gif"  />
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byncvn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=byncvn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=byncvn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-![snake gif](https://github.com/byncvn/byncvn/blob/output/github-snake.svg)
-
+  ![snake gif](https://github.com/byncvn/byncvn/blob/output/github-snake.svg)
+  
 ###
