@@ -54,9 +54,16 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" height="40" alt="cypress logo"/>    
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="50" alt="playwright logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"/>
+  
 </div>
 
 ###
@@ -71,6 +78,8 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
   <img width="12" />
