@@ -25,11 +25,9 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 <br clear="both">
 
-<p align="left">Languages</p>
+<h2 align="left">Languages</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="43" alt="swift logo"  />
@@ -51,9 +49,19 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 ###
 
-<br clear="both">
+<h2 align="left">Testing</h2>
 
-<p align="left">Tools & Frameworks</p>
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools & Frameworks</h2>
 
 ###
 
@@ -68,6 +76,8 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -77,17 +87,14 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+
 </div>
 
 ###
 
-<br clear="both">
-
-<p align="left">Code editors</p>
+<h2 align="left">Code editors</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
@@ -107,7 +114,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 ###
 
-<p align="left">Managment and Design</p>
+<h2 align="left">Managment and Design</h2>
 
 ###
 
