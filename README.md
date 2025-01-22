@@ -58,7 +58,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" height="40" alt="cypress logo"/>    
+  <img src="https://www.svgrepo.com/show/353630/cypress.svg" height="40" alt="cypress logo"/>    
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="50" alt="playwright logo"/>
   <img width="12" />
