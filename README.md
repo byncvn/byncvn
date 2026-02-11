@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/byncvn/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/:byncvn:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 ###
