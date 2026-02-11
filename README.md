@@ -1,14 +1,3 @@
-<p align="center">Visitor #</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.deno.dev/:byncvn:/count.svg" alt="Key:: Visitor's Count" />
-</div>
-
-###
-
-<br clear="both">
 
 <p align="left">💫 About Me:<br><br>
 Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with expertise in both manual and automated testing, focusing on mobile and web platforms. With a strong background in QA automation, unit testing, and Agile methodologies, I help teams build high-quality software through efficient testing practices.<br><br>
@@ -38,13 +27,13 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  /> -->
 </div>
 
 ###
@@ -63,8 +52,8 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="50" alt="playwright logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"/>
+  <!-- <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"/> -->
   
 </div>
 
@@ -77,10 +66,10 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 <div align="left">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
@@ -89,12 +78,12 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
@@ -103,11 +92,11 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 
 ###
 
-<h2 align="left">Code editors</h2>
+<!-- <h2 align="left">Code editors</h2> -->
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
@@ -121,7 +110,7 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -132,8 +121,8 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
@@ -146,28 +135,9 @@ Hi, I'm Bryan!<br>I’m an experienced Software Engineer and Test Engineer with 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  /> -->
 </div>
 
-<br clear="both">
 
-###
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byncvn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byncvn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-  ![snake gif](https://github.com/byncvn/byncvn/blob/output/github-snake.svg)
-  
-###
